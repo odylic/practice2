@@ -1,0 +1,39 @@
+{
+  "name": "practice2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odylic/practice2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/odylic/practice2/issues"
+  },
+  "homepage": "https://github.com/odylic/practice2#readme",
+  "dependencies": {
+    "concurrently": "^6.0.2",
+    "cross-env": "^7.0.3",
+    "css-loader": "^5.2.4",
+    "dev-server": "^0.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.5",
+    "nodemon": "^2.0.7",
+    "react": "^17.0.2",
+    "style-loader": "^2.0.0",
+    "webpack": "^5.34.0",
+    "webpack-cli": "^4.6.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.13.16",
+    "@babel/preset-env": "^7.13.15",
+    "@babel/preset-react": "^7.13.13",
+    "babel-loader": "^8.2.2"
+  }
+}
